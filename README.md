@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell: an infinite recursion due to improper handling of negative input in a recursive factorial function. The `bug.hs` file contains the erroneous code. The `bugSolution.hs` file provides a corrected version with explicit error handling for negative input.
